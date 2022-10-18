@@ -7,7 +7,7 @@
     "start":"nodemon server.js"
   },
   "keywords": [],
-  "author": "Shubhi",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
